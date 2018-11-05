@@ -1,0 +1,3 @@
+language: pythin
+script:
+	- python -m pytest -v
